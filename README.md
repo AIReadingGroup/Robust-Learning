@@ -8,5 +8,4 @@
 
 
 # Others
-- Unsupervised image style embeddings for retrieval and recognition task. WACV 2020.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9093421)
-- Audio-Visual Instance Discrimination with Cross-Modal Agreement.arXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)
+- Audio-Visual Instance Discrimination with Cross-Modal Agreement.ArXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)
