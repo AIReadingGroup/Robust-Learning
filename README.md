@@ -7,5 +7,6 @@
 - (**Pre-training**) Using Pre-Training Can Improve Model Robustness and Uncertainty.ICML 2019 [pdf](https://arxiv.org/abs/1901.09960?context=cs.CV)
 
 
-# Others
+# Cross-Modal
 - Audio-Visual Instance Discrimination with Cross-Modal Agreement.ArXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)
+- FROM INTRA-MODAL TO INTER-MODAL SPACE:MULTI-TASK LEARNING OF SHARED REPRESENTATIONS FOR CROSS-MODAL RETRIEV AL.IEEE 2019.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919383) 
