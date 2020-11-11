@@ -11,9 +11,10 @@
 
 ### Cross-Model / Muti-Model
 - Audio-Visual Instance Discrimination with Cross-Modal Agreement.ArXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)
-- FROM INTRA-MODAL TO INTER-MODAL SPACE:MULTI-TASK LEARNING OF SHARED REPRESENTATIONS FOR CROSS-MODAL RETRIEV AL.IEEE 2019.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919383) 
+- From Inra-Modal to Inter-Modal Space:Multi-Task Learning of Shared Representations for Cross-Modal Retrieval.IEEE 2019.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919383) 
 - Self-supervised Co-Training for Video Representation Learning.ArXiv 2020.[pdf](https://arxiv.org/pdf/2010.09709.pdf)
 
 
 ### self
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.ArXiv 2020.[pdf](https://arxiv.org/pdf/2006.02713.pdf)
+- Feature Learning based Deep Supervised Hashing with Pairwise LabelsD.CVPR 2016.[pdf](https://arxiv.org/pdf/1511.03855.pdf)
