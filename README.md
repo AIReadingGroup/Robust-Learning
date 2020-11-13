@@ -10,7 +10,7 @@
 # Representation Learning
 
 ### Cross-Model / Muti-Model
-- Audio-Visual Instance Discrimination with Cross-Modal Agreement.ArXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)
+- Audio-Visual Instance Discrimination with Cross-Modal Agreement.ArXiv 2020.[pdf](https://arxiv.org/pdf/2004.12943.pdf)/[code](https://github.com/GZHU-YangPeng/AVID-CMA)
 - From Inra-Modal to Inter-Modal Space:Multi-Task Learning of Shared Representations for Cross-Modal Retrieval.IEEE 2019.[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919383) 
 - Self-supervised Co-Training for Video Representation Learning.ArXiv 2020.[pdf](https://arxiv.org/pdf/2010.09709.pdf)
 
