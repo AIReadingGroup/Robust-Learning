@@ -17,4 +17,4 @@
 
 ### self
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.ArXiv 2020.[pdf](https://arxiv.org/pdf/2006.02713.pdf)
-- Feature Learning based Deep Supervised Hashing with Pairwise LabelsD.CVPR 2016.[pdf](https://arxiv.org/pdf/1511.03855.pdf). [pdf](https://github.com/GZHU-YangPeng/DPSH-pytorch)
+- Feature Learning based Deep Supervised Hashing with Pairwise LabelsD.CVPR 2016.[pdf](https://arxiv.org/pdf/1511.03855.pdf)./ [code](https://github.com/GZHU-YangPeng/DPSH-pytorch)
