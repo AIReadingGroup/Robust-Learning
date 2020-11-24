@@ -22,5 +22,5 @@
 
 
 ## other
-- Exploring Simple Siamese Representation Learning .20 Nov 2020.[pdf] (https://arxiv.org/abs/2011.10566)
+- Exploring Simple Siamese Representation Learning .20 Nov 2020.[pdf](https://arxiv.org/abs/2011.10566)
 
