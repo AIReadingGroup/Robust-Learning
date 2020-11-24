@@ -21,6 +21,6 @@
 - Self-supervised Co-training for Video Representation Learning.NeurIPS 2020 [pdf](https://arxiv.org/pdf/2010.09709.pdf)-- [Code](https://github.com/TengdaHan/CoCLR)
 
 
-## other
-- Exploring Simple Siamese Representation Learning .20 Nov 2020.[pdf](https://arxiv.org/abs/2011.10566)
+## unsupervised
+- Exploring Simple Siamese Representation Learning .CVPR 2020.[pdf](https://arxiv.org/abs/2011.10566)
 
