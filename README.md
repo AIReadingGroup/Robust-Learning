@@ -19,3 +19,8 @@
 - Self-paced Contrastive Learning with Hybrid Memory for Domain Adaptive Object Re-ID.ArXiv 2020.[pdf](https://arxiv.org/pdf/2006.02713.pdf)
 - Feature Learning based Deep Supervised Hashing with Pairwise LabelsD.CVPR 2016.[pdf](https://arxiv.org/pdf/1511.03855.pdf).-- [Code](https://github.com/GZHU-YangPeng/DPSH-pytorch)
 - Self-supervised Co-training for Video Representation Learning.NeurIPS 2020 [pdf](https://arxiv.org/pdf/2010.09709.pdf)-- [Code](https://github.com/TengdaHan/CoCLR)
+
+
+## other
+- Exploring Simple Siamese Representation Learning .20 Nov 2020.[pdf] (https://arxiv.org/abs/2011.10566)
+
