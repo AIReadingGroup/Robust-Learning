@@ -28,3 +28,9 @@
 - [x] Deep Supervised Hashing for Fast Image Retrieval.CVPR_2016.[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf)
 - [x] Feature Learning based Deep Supervised Hashing with Pairwise Labels.CVPR 2016.[pdf](https://arxiv.org/pdf/1511.03855.pdf).-- [Code](https://github.com/GZHU-YangPeng/DPSH-pytorch)
 - [x] Deep Supervised Hashing with Triplet Labels.2016 ACCV.[pdf](https://arxiv.org/pdf/1612.03900v1.pdf)
+
+## Others
+- [ ] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
+- [ ] Auto-Encoding Twin-Bottleneck Hashing.CVPR. 2020.[pdf](https://arxiv.org/pdf/2002.11930.pdf)
+
+
