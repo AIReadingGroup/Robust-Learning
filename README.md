@@ -32,5 +32,5 @@
 ## Others
 - [ ] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
 - [ ] Auto-Encoding Twin-Bottleneck Hashing.CVPR. 2020.[pdf](https://arxiv.org/pdf/2002.11930.pdf)
-
+- [ ] Fine-grained Visual Textual Alignment for Cross-Modal Retrieval using Transformer Encoders . ACM Trans. Multimedia COMPUT. 2020.[pdf](https://arxiv.org/pdf/2008.05231.pdf)
 
