@@ -47,3 +47,5 @@
 - [ ] Probability Weighted Compact Feature for Domain Adaptive Retrieval.[CVPR 2020].[pdf](https://arxiv.org/pdf/2003.03293.pdf) - [code](https://github.com/fuxianghuang1/PWCF)
 
 - [ ] Google Landmarks Dataset v2 -- A Large-Scale Benchmark for Instance-Level Recognition and Retrieval.[CVPR 2020].[pdf](https://arxiv.org/pdf/2004.01804.pdf) - [code](https://github.com/cvdfoundation/google-landmark)
+- [ ] Local Relation Learning for Face Forgery Detection.[AAAI 2021]
+- [ ] Domain General Face Forgery Detection by Learning to Weight.[AAAI 2021]
