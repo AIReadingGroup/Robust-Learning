@@ -1,12 +1,12 @@
 # Robust-Learning
 
 ### Robust Regularization
-- [x] (**Adversarial Training)** Explaining and harnessing adversarial examples.[ICLR 2015] [pdf](https://arxiv.org/pdf/1412.6572.pdf) 
+- [x] (**Adversarial Training**) Explaining and harnessing adversarial examples.[ICLR 2015] [pdf](https://arxiv.org/pdf/1412.6572.pdf) 
 - [x] (**Mixup**)mixup: Beyond empirical risk minimization.[ICLR 2018] [pdf](https://arxiv.org/pdf/1710.09412.pdf)
 - [x] (**Bilevel Learning**)Deep bilevel learning. [ECCV 2018][pdf](https://arxiv.org/pdf/1809.01465.pdf)
 - [x] (**Pre-training**) Using Pre-Training Can Improve Model Robustness and Uncertainty.[ICML 2019] [pdf](https://arxiv.org/abs/1901.09960?context=cs.CV)
 
-
+- [ ] (**  **) Class2Simi: A New Perspective on Learning with Label Noise. [ 2020][pdf](https://arxiv.org/pdf/2006.07831.pdf)
 
 # Representation Learning
 
