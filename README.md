@@ -19,7 +19,7 @@
 - [ ] Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning.[CVPR 2020].[pdf](https://arxiv.org/pdf/2003.00392.pdf)
 - [ ] IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. [ CVPR 2020].[pdf](https://arxiv.org/pdf/2003.03772.pdf) - [code](https://github.com/HuiChen24/IMRAM)
 - [ ] Context-Aware Attention Network for Image-Text. [CVPR 2020] .[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157657)
-
+- [ ] MSAF: Multimodal Split Attention Fusion.[CVPR 2020] .[pdf](https://arxiv.org/pdf/2012.07175.pdf)                
 
 
 ### self
