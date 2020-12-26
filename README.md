@@ -6,7 +6,7 @@
 - [x] (**Bilevel Learning**)Deep bilevel learning. [ECCV 2018][pdf](https://arxiv.org/pdf/1809.01465.pdf)
 - [x] (**Pre-training**) Using Pre-Training Can Improve Model Robustness and Uncertainty.[ICML 2019] [pdf](https://arxiv.org/abs/1901.09960?context=cs.CV)
 
-- [ ] (**  **) Class2Simi: A New Perspective on Learning with Label Noise. [ 2020][pdf](https://arxiv.org/pdf/2006.07831.pdf)
+- [x] (**  **) Class2Simi: A New Perspective on Learning with Label Noise. [ 2020][pdf](https://arxiv.org/pdf/2006.07831.pdf)
 
 # Representation Learning
 
@@ -34,7 +34,7 @@
 - [x] Deep Supervised Hashing with Triplet Labels.2016 ACCV.[pdf](https://arxiv.org/pdf/1612.03900v1.pdf)--[Code](https://github.com/swuxyj/DeepHash-pytorch)  
 
 ## Others
-- [ ] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
+- [] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
 
 - [ ] Auto-Encoding Twin-Bottleneck Hashing.CVPR. 2020.[pdf](https://arxiv.org/pdf/2002.11930.pdf)
 
