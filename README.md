@@ -34,7 +34,7 @@
 - [x] Deep Supervised Hashing with Triplet Labels.2016 ACCV.[pdf](https://arxiv.org/pdf/1612.03900v1.pdf)--[Code](https://github.com/swuxyj/DeepHash-pytorch)  
 
 ## Others
-- [] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
+- [ ] Central Similarity Quantization for Efficient Image and Video Retrieval.CVPR.2020.[pdf](https://arxiv.org/pdf/1908.00347.pdf)
 
 - [ ] Auto-Encoding Twin-Bottleneck Hashing.CVPR. 2020.[pdf](https://arxiv.org/pdf/2002.11930.pdf)
 
