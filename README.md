@@ -21,7 +21,23 @@
 - [ ] Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning.[CVPR 2020].[pdf](https://arxiv.org/pdf/2003.00392.pdf)
 - [ ] IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval. [ CVPR 2020].[pdf](https://arxiv.org/pdf/2003.03772.pdf) - [code](https://github.com/HuiChen24/IMRAM)
 - [ ] Context-Aware Attention Network for Image-Text. [CVPR 2020] .[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157657)
-- [ ] MSAF: Multimodal Split Attention Fusion.[CVPR 2020] .[pdf](https://arxiv.org/pdf/2012.07175.pdf)                
+- [ ] MSAF: Multimodal Split Attention Fusion.[CVPR 2020] .[pdf](https://arxiv.org/pdf/2012.07175.pdf)     
+
+#### Transformer
+- [ ] CrossTransformers: spatially-aware few-shot transfer. NeurIPS 2020. [pdf](https://arxiv.org/pdf/2007.11498.pdf)
+
+- [ ] Multi-modal Transformer for Video Retrieval. ECCV 2020.[pdf](https://arxiv.org/pdf/2007.10639.pdf)
+
+- [ ] VISUALBERT: A SIMPLE AND PERFORMANT BASELINE FOR VISION AND LANGUAGE. ArXiv 2020.[pdf](https://arxiv.org/pdf/1908.03557.pdf)
+
+- [ ] Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems. ArXiv 2019.[pdf](https://arxiv.org/pdf/1907.01166.pdf) - [code](https://github.com/henryhungle/MTN)
+
+- [ ] Transformer Reasoning Network for Image-Text Matching and Retrieval.ICPR 2020.[pdf](https://arxiv.org/pdf/2004.09144.pdf)
+
+- [ ] UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning. Arxiv 2020.[pdf](https://arxiv.org/pdf/2012.15409.pdf)
+
+- [ ] Similarity Reasoning and Filtration for Image-Text Matching. AAAI2021.[pdf](https://arxiv.org/pdf/2101.01368v1.pdf)
+
 ### self
 - [x] Self-supervised Co-training for Video Representation Learning.NeurIPS 2020 [pdf](https://arxiv.org/pdf/2010.09709.pdf)-- [Code](https://github.com/TengdaHan/CoCLR)
 ## unsupervised
