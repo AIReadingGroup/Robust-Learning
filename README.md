@@ -38,6 +38,10 @@
 
 - [ ] Similarity Reasoning and Filtration for Image-Text Matching. AAAI2021.[pdf](https://arxiv.org/pdf/2101.01368v1.pdf)
 
+- [ ] Fine-grained Visual Textual Alignment for Cross-Modal Retrieval using Transformer Encoders. Arxiv 2020.[pdf](https://arxiv.org/pdf/2008.05231.pdf)
+
+
+
 ### self
 - [x] Self-supervised Co-training for Video Representation Learning.NeurIPS 2020 [pdf](https://arxiv.org/pdf/2010.09709.pdf)-- [Code](https://github.com/TengdaHan/CoCLR)
 ## unsupervised
