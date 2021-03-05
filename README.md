@@ -1,6 +1,9 @@
 # 2021
 - [ ] Unlearnable Examples:  Making Personal Data Unexploitable.[ICLR2021]. [pdf](https://arxiv.org/pdf/2101.04898.pdf)
 - [ ] Zero-Shot Cross-Lingual Transfer with Meta Learning . [EMNLP 2020].[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.368.pdf) - [code](https://github.com/copenlu/X-MAML)
+- [ ] Counterfactual Zero-Shot and Open-Set Visual Recognition. CVPR 2021.[pdf](https://arxiv.org/pdf/2103.00887.pdf)
+- [ ] Cross Modal Focal Loss for RGBD Face Anti-Spoofing. CVPR 2021.[pdf](https://arxiv.org/pdf/2103.00948.pdf)
+- [ ] Intermediate Layer Optimization for Inverse Problems using Deep Generative Models.[pdf](https://arxiv.org/pdf/2102.07364v1.pdf) - [code](https://github.com/giannisdaras/ilo)
 
 # 2020
 ## Robust-Learning
